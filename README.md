@@ -45,4 +45,4 @@ I'm a Game Developer with a passion for data, primarly experienced in video game
 <!-- Socials -->
 ## 📱 Find me on social media
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/juliusz-kaczmarek/)
-[![Twitter](https://img.shields.io/badge/Twitter-Follow-blue?logo=twitter)](https://x.com/duckmark_)
+[![Twitter](https://img.shields.io/badge/Twitter-Follow-blue?logo=twitter)](https://x.com/JuliuszDev)
