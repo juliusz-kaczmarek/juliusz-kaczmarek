@@ -37,6 +37,10 @@ I'm a Game Developer with a passion for data, primarly experienced in video game
   <a href="https://github.com/Nine-Byte-Warriors/roche-engine">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Nine-Byte-Warriors&repo=roche-engine" />
   </a> &nbsp;
+  <a href="https://github.com/juliusz-kaczmarek/bigdata-impact">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Juliusz-Kaczmarek&repo=bigdata-impact" />
+  </a> &nbsp;
+  
 
 <!-- Socials -->
 ## 📱 Find me on social media
